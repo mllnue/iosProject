@@ -96,13 +96,10 @@ MainView
 ---
 
 ### 2.7 발표영상
-
-![image](https://github.com/user-attachments/assets/b72998b2-60be-47ad-95c7-bff08c2bb52b)
-![image](https://github.com/user-attachments/assets/569a35e1-b254-4e38-a20d-a03c010f4346)
-![image](https://github.com/user-attachments/assets/4be8db44-1fa6-44a6-a40c-341b3c071353)
-![image](https://github.com/user-attachments/assets/6ef24124-c95f-41d5-b0d6-09adef953e82)
-
-
+![image](https://github.com/user-attachments/assets/61ea7a9e-5c2b-4369-bf98-edd9de59a2ad)
+![image](https://github.com/user-attachments/assets/27267b8a-7987-4ca7-82f2-8e232ae31874)
+![image](https://github.com/user-attachments/assets/cb32ce9f-2136-477d-80b0-975bb3585168)
+![image](https://github.com/user-attachments/assets/f150b90a-923a-40db-bf5e-e0ab85c48935)
 
 ---
 
