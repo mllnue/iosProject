@@ -97,7 +97,11 @@ MainView
 
 ### 2.7 발표영상
 
-.
+![image](https://github.com/user-attachments/assets/b72998b2-60be-47ad-95c7-bff08c2bb52b)
+![image](https://github.com/user-attachments/assets/569a35e1-b254-4e38-a20d-a03c010f4346)
+![image](https://github.com/user-attachments/assets/4be8db44-1fa6-44a6-a40c-341b3c071353)
+![image](https://github.com/user-attachments/assets/6ef24124-c95f-41d5-b0d6-09adef953e82)
+
 
 
 ---
